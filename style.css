@@ -24,7 +24,6 @@ textarea {
     justify-content: center;
     flex-flow: row wrap;
     gap: 16px;
-    justify-items: center;
 }
 
 #transform-buttons button {
