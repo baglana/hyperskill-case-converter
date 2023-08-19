@@ -1,2 +1,2 @@
 # hyperskill-case-converter
-Basic text case converter
+Simple text case converter
